@@ -1,0 +1,115 @@
+[17-Sep-2021 00:26:56 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ewar5436/public_html/js/demo/chart-area-demo-suhu.php on line 6
+[17-Sep-2021 00:26:56 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ewar5436/public_html/js/demo/chart-area-demo-salinity.php on line 6
+[17-Sep-2021 00:26:56 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ewar5436/public_html/js/demo/chart-area-demo-suhu.php on line 7
+[17-Sep-2021 00:26:56 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ewar5436/public_html/js/demo/chart-area-demo-salinity.php on line 7
+[17-Sep-2021 00:26:56 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ewar5436/public_html/js/demo/chart-area-demo-suhu.php on line 8
+[17-Sep-2021 00:26:56 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ewar5436/public_html/js/demo/chart-area-demo-salinity.php on line 8
+[17-Sep-2021 00:26:56 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ewar5436/public_html/js/demo/chart-area-demo-salinity.php on line 45
+[17-Sep-2021 00:26:56 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ewar5436/public_html/js/demo/chart-area-demo-suhu.php on line 45
+[17-Sep-2021 00:26:56 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ewar5436/public_html/js/demo/chart-area-demo-salinity.php on line 59
+[17-Sep-2021 00:26:56 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ewar5436/public_html/js/demo/chart-area-demo-suhu.php on line 59
+[17-Sep-2021 00:26:56 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ewar5436/public_html/js/demo/chart-area-demo-waterlevel.php on line 6
+[17-Sep-2021 00:26:56 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ewar5436/public_html/js/demo/chart-area-demo-waterlevel.php on line 7
+[17-Sep-2021 00:26:56 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ewar5436/public_html/js/demo/chart-area-demo-waterlevel.php on line 8
+[17-Sep-2021 00:26:56 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ewar5436/public_html/js/demo/chart-area-demo-waterlevel.php on line 45
+[17-Sep-2021 00:26:56 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ewar5436/public_html/js/demo/chart-area-demo-waterlevel.php on line 59
+[17-Sep-2021 00:26:56 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ewar5436/public_html/js/demo/chart-area-demo-ph.php on line 6
+[17-Sep-2021 00:26:56 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ewar5436/public_html/js/demo/chart-area-demo-ph.php on line 7
+[17-Sep-2021 00:26:56 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ewar5436/public_html/js/demo/chart-area-demo-ph.php on line 8
+[17-Sep-2021 00:26:56 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ewar5436/public_html/js/demo/chart-area-demo-ph.php on line 45
+[17-Sep-2021 00:26:56 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ewar5436/public_html/js/demo/chart-area-demo-ph.php on line 59
+[17-Sep-2021 00:29:45 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ewar5436/public_html/js/demo/chart-area-demo-suhu.php on line 6
+[17-Sep-2021 00:29:45 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ewar5436/public_html/js/demo/chart-area-demo-suhu.php on line 7
+[17-Sep-2021 00:29:45 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ewar5436/public_html/js/demo/chart-area-demo-suhu.php on line 8
+[17-Sep-2021 00:29:45 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ewar5436/public_html/js/demo/chart-area-demo-suhu.php on line 45
+[17-Sep-2021 00:29:45 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ewar5436/public_html/js/demo/chart-area-demo-suhu.php on line 59
+[17-Sep-2021 00:29:45 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ewar5436/public_html/js/demo/chart-area-demo-ph.php on line 6
+[17-Sep-2021 00:29:45 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ewar5436/public_html/js/demo/chart-area-demo-ph.php on line 7
+[17-Sep-2021 00:29:45 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ewar5436/public_html/js/demo/chart-area-demo-ph.php on line 8
+[17-Sep-2021 00:29:45 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ewar5436/public_html/js/demo/chart-area-demo-ph.php on line 45
+[17-Sep-2021 00:29:45 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ewar5436/public_html/js/demo/chart-area-demo-ph.php on line 59
+[17-Sep-2021 00:29:45 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ewar5436/public_html/js/demo/chart-area-demo-salinity.php on line 6
+[17-Sep-2021 00:29:45 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ewar5436/public_html/js/demo/chart-area-demo-salinity.php on line 7
+[17-Sep-2021 00:29:45 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ewar5436/public_html/js/demo/chart-area-demo-salinity.php on line 8
+[17-Sep-2021 00:29:45 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ewar5436/public_html/js/demo/chart-area-demo-salinity.php on line 45
+[17-Sep-2021 00:29:45 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ewar5436/public_html/js/demo/chart-area-demo-salinity.php on line 59
+[17-Sep-2021 00:29:45 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ewar5436/public_html/js/demo/chart-area-demo-waterlevel.php on line 6
+[17-Sep-2021 00:29:45 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ewar5436/public_html/js/demo/chart-area-demo-waterlevel.php on line 7
+[17-Sep-2021 00:29:45 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ewar5436/public_html/js/demo/chart-area-demo-waterlevel.php on line 8
+[17-Sep-2021 00:29:45 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ewar5436/public_html/js/demo/chart-area-demo-waterlevel.php on line 45
+[17-Sep-2021 00:29:45 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ewar5436/public_html/js/demo/chart-area-demo-waterlevel.php on line 59
+[17-Sep-2021 00:33:38 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ewar5436/public_html/js/demo/chart-area-demo-salinity.php on line 6
+[17-Sep-2021 00:33:38 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ewar5436/public_html/js/demo/chart-area-demo-salinity.php on line 7
+[17-Sep-2021 00:33:38 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ewar5436/public_html/js/demo/chart-area-demo-salinity.php on line 8
+[17-Sep-2021 00:33:38 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ewar5436/public_html/js/demo/chart-area-demo-waterlevel.php on line 6
+[17-Sep-2021 00:33:38 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ewar5436/public_html/js/demo/chart-area-demo-salinity.php on line 45
+[17-Sep-2021 00:33:38 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ewar5436/public_html/js/demo/chart-area-demo-salinity.php on line 59
+[17-Sep-2021 00:33:38 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ewar5436/public_html/js/demo/chart-area-demo-waterlevel.php on line 7
+[17-Sep-2021 00:33:38 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ewar5436/public_html/js/demo/chart-area-demo-waterlevel.php on line 8
+[17-Sep-2021 00:33:38 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ewar5436/public_html/js/demo/chart-area-demo-waterlevel.php on line 45
+[17-Sep-2021 00:33:38 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ewar5436/public_html/js/demo/chart-area-demo-waterlevel.php on line 59
+[17-Sep-2021 00:33:38 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ewar5436/public_html/js/demo/chart-area-demo-suhu.php on line 6
+[17-Sep-2021 00:33:38 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ewar5436/public_html/js/demo/chart-area-demo-suhu.php on line 7
+[17-Sep-2021 00:33:38 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ewar5436/public_html/js/demo/chart-area-demo-suhu.php on line 8
+[17-Sep-2021 00:33:38 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ewar5436/public_html/js/demo/chart-area-demo-suhu.php on line 45
+[17-Sep-2021 00:33:38 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ewar5436/public_html/js/demo/chart-area-demo-suhu.php on line 59
+[17-Sep-2021 00:33:38 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ewar5436/public_html/js/demo/chart-area-demo-ph.php on line 6
+[17-Sep-2021 00:33:38 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ewar5436/public_html/js/demo/chart-area-demo-ph.php on line 7
+[17-Sep-2021 00:33:38 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ewar5436/public_html/js/demo/chart-area-demo-ph.php on line 8
+[17-Sep-2021 00:33:38 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ewar5436/public_html/js/demo/chart-area-demo-ph.php on line 45
+[17-Sep-2021 00:33:38 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ewar5436/public_html/js/demo/chart-area-demo-ph.php on line 59
+[17-Sep-2021 00:52:39 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ewar5436/public_html/js/demo/chart-area-demo-suhu.php on line 6
+[17-Sep-2021 00:52:39 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ewar5436/public_html/js/demo/chart-area-demo-suhu.php on line 7
+[17-Sep-2021 00:52:39 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ewar5436/public_html/js/demo/chart-area-demo-suhu.php on line 8
+[17-Sep-2021 00:52:39 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ewar5436/public_html/js/demo/chart-area-demo-suhu.php on line 45
+[17-Sep-2021 00:52:39 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ewar5436/public_html/js/demo/chart-area-demo-suhu.php on line 59
+[17-Sep-2021 00:52:39 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ewar5436/public_html/js/demo/chart-area-demo-salinity.php on line 6
+[17-Sep-2021 00:52:39 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ewar5436/public_html/js/demo/chart-area-demo-salinity.php on line 7
+[17-Sep-2021 00:52:39 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ewar5436/public_html/js/demo/chart-area-demo-salinity.php on line 8
+[17-Sep-2021 00:52:39 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ewar5436/public_html/js/demo/chart-area-demo-salinity.php on line 45
+[17-Sep-2021 00:52:39 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ewar5436/public_html/js/demo/chart-area-demo-salinity.php on line 59
+[17-Sep-2021 00:52:39 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ewar5436/public_html/js/demo/chart-area-demo-waterlevel.php on line 6
+[17-Sep-2021 00:52:39 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ewar5436/public_html/js/demo/chart-area-demo-waterlevel.php on line 7
+[17-Sep-2021 00:52:39 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ewar5436/public_html/js/demo/chart-area-demo-waterlevel.php on line 8
+[17-Sep-2021 00:52:39 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ewar5436/public_html/js/demo/chart-area-demo-waterlevel.php on line 45
+[17-Sep-2021 00:52:39 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ewar5436/public_html/js/demo/chart-area-demo-waterlevel.php on line 59
+[17-Sep-2021 00:52:39 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ewar5436/public_html/js/demo/chart-area-demo-ph.php on line 6
+[17-Sep-2021 00:52:39 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ewar5436/public_html/js/demo/chart-area-demo-ph.php on line 7
+[17-Sep-2021 00:52:39 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ewar5436/public_html/js/demo/chart-area-demo-ph.php on line 8
+[17-Sep-2021 00:52:39 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ewar5436/public_html/js/demo/chart-area-demo-ph.php on line 45
+[17-Sep-2021 00:52:39 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ewar5436/public_html/js/demo/chart-area-demo-ph.php on line 59
+[17-Sep-2021 00:52:45 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ewar5436/public_html/js/demo/chart-area-demo-suhu.php on line 6
+[17-Sep-2021 00:52:45 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ewar5436/public_html/js/demo/chart-area-demo-suhu.php on line 7
+[17-Sep-2021 00:52:45 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ewar5436/public_html/js/demo/chart-area-demo-suhu.php on line 8
+[17-Sep-2021 00:52:45 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ewar5436/public_html/js/demo/chart-area-demo-suhu.php on line 45
+[17-Sep-2021 00:52:45 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ewar5436/public_html/js/demo/chart-area-demo-suhu.php on line 59
+[17-Sep-2021 00:52:45 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ewar5436/public_html/js/demo/chart-area-demo-salinity.php on line 6
+[17-Sep-2021 00:52:45 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ewar5436/public_html/js/demo/chart-area-demo-salinity.php on line 7
+[17-Sep-2021 00:52:45 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ewar5436/public_html/js/demo/chart-area-demo-salinity.php on line 8
+[17-Sep-2021 00:52:45 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ewar5436/public_html/js/demo/chart-area-demo-salinity.php on line 45
+[17-Sep-2021 00:52:45 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ewar5436/public_html/js/demo/chart-area-demo-salinity.php on line 59
+[17-Sep-2021 00:52:45 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ewar5436/public_html/js/demo/chart-area-demo-waterlevel.php on line 6
+[17-Sep-2021 00:52:45 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ewar5436/public_html/js/demo/chart-area-demo-waterlevel.php on line 7
+[17-Sep-2021 00:52:45 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ewar5436/public_html/js/demo/chart-area-demo-waterlevel.php on line 8
+[17-Sep-2021 00:52:45 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ewar5436/public_html/js/demo/chart-area-demo-waterlevel.php on line 45
+[17-Sep-2021 00:52:45 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ewar5436/public_html/js/demo/chart-area-demo-waterlevel.php on line 59
+[17-Sep-2021 00:52:45 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ewar5436/public_html/js/demo/chart-area-demo-ph.php on line 6
+[17-Sep-2021 00:52:45 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ewar5436/public_html/js/demo/chart-area-demo-ph.php on line 7
+[17-Sep-2021 00:52:45 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ewar5436/public_html/js/demo/chart-area-demo-ph.php on line 8
+[17-Sep-2021 00:52:45 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ewar5436/public_html/js/demo/chart-area-demo-ph.php on line 45
+[17-Sep-2021 00:52:45 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ewar5436/public_html/js/demo/chart-area-demo-ph.php on line 59
+[17-Sep-2021 00:55:57 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ewar5436/public_html/js/demo/chart-area-demo-salinity.php on line 6
+[17-Sep-2021 00:55:57 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ewar5436/public_html/js/demo/chart-area-demo-salinity.php on line 7
+[17-Sep-2021 00:55:57 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ewar5436/public_html/js/demo/chart-area-demo-salinity.php on line 8
+[17-Sep-2021 00:55:57 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ewar5436/public_html/js/demo/chart-area-demo-salinity.php on line 45
+[17-Sep-2021 00:55:57 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ewar5436/public_html/js/demo/chart-area-demo-salinity.php on line 59
+[17-Sep-2021 00:55:57 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ewar5436/public_html/js/demo/chart-area-demo-ph.php on line 6
+[17-Sep-2021 00:55:57 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ewar5436/public_html/js/demo/chart-area-demo-ph.php on line 7
+[17-Sep-2021 00:55:57 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ewar5436/public_html/js/demo/chart-area-demo-ph.php on line 8
+[17-Sep-2021 00:55:57 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ewar5436/public_html/js/demo/chart-area-demo-ph.php on line 45
+[17-Sep-2021 00:55:57 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ewar5436/public_html/js/demo/chart-area-demo-ph.php on line 59
+[17-Sep-2021 00:55:57 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ewar5436/public_html/js/demo/chart-area-demo-waterlevel.php on line 6
+[17-Sep-2021 00:55:57 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ewar5436/public_html/js/demo/chart-area-demo-waterlevel.php on line 7
+[17-Sep-2021 00:55:57 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/ewar5436/public_html/js/demo/chart-area-demo-waterlevel.php on line 8
+[17-Sep-2021 00:55:57 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ewar5436/public_html/js/demo/chart-area-demo-waterlevel.php on line 45
+[17-Sep-2021 00:55:57 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/ewar5436/public_html/js/demo/chart-area-demo-waterlevel.php on line 59
