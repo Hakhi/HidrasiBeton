@@ -40,7 +40,7 @@
               <p>Belum memiliki akun? <a href="#">Hubungi Team</a></p>
             </div>
           </form>
-          <div class="reset-now-text text-center">
+          <div class="create-new-acc-text text-center">
             <p>Lupa password? <a href="#">Reset !</a></p>
           </div>
         </div>

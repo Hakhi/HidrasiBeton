@@ -32,6 +32,7 @@ Route::middleware('auth')->group(function () {
     Route::get('dashboard', [MeasurementController::class, 'dashboard']);
     Route::get('measurement', [MeasurementController::class, 'measurement']);
     Route::get('measurement/excel', [MeasurementController::class, 'exportMeasurement']);
+    Route::get('measurement/delete', [MeasurementController::class, 'delete']);
 
     Route::get('layout', function () {
         return view('dashboard.layout');

@@ -15,7 +15,8 @@ class CreateMeasurementsTable extends Migration
     {
         Schema::create('measurements', function (Blueprint $table) {
             $table->id();
-            $table->string('suhu');
+            $table->string('suhu_10_cm');
+            $table->string('suhu_15_cm');
             $table->string('panjang');
             $table->timestamps();
         });

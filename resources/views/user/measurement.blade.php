@@ -10,12 +10,21 @@
         </div>
         <div class="card-body">
             <div class="table-responsive">
-                <h5 class="card-title" style="font-size: xx-large; text-align: left;">
-                    <a href="{{url('measurement/excel')}}" class="">
-                        <button class="btn btn-md bg-success" style="color: white;">Export <i
-                                class="fas fa-file-excel ml-2"></i></button>
-                    </a>
-                </h5>
+                <div class="btn-group" role="group">
+                    <h5 class="card-title" style="font-size: xx-large; text-align: left;">
+                        <a href="{{url('measurement/excel')}}">
+                            <button class="btn btn-md bg-success" style="color: white;">Export Excel <i
+                                    class="fas fa-file-excel ml-2"></i></button>
+                        </a>
+                    </h5>
+                    <h5 class="card-title" style="font-size: xx-large; text-align: left;">
+                        <a href="{{url('measurement/delete')}}">
+                            <button class="btn btn-danger btn-icon-splitd" data-toggle="modal" data-target="#konfirmasi"
+                                style="color: white;">Hapus Data <i class="fas fa-trash"></i></button>
+                        </a>
+                    </h5>
+
+                </div>
                 <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
                     <thead>
                         <tr>
@@ -37,6 +46,21 @@
                         @endforeach
                     </tbody>
                 </table>
+                <div class="modal fade" id="konfirmasi" data-backdrop="static" data-keyboard="false" tabindex="-1"
+                    aria-labelledby="staticBackdropLabel" aria-hidden="true">
+                    <div class="modal-dialog">
+                        <div class="modal-content">
+                            <div class="modal-body">
+                                <h5 class="mt-3">Data sudah benar ?</h5>
+                            </div>
+                            <div class="modal-footer">
+                                <button data-target="#inputperdiksi" type="submit" value="daftar" class="btn btn-md"
+                                    style="color: white; background-color: #1a174d">Benar</button>
+                                <button type="button" class="btn btn-secondary" data-dismiss="modal">Tutup</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </div>

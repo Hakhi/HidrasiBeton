@@ -10,15 +10,16 @@
     </div>
     <!-- Content Row -->
     <div class="row">
-        <!-- kartu suhu -->
+        <!-- kartu suhu 10 cm -->
         <div class="col-xl-3 col-md-6 mb-4">
             <div class="card border-left-danger shadow h-100 py-2">
                 <div class="card-body">
                     <div class="row no-gutters align-items-center">
                         <div class="col mr-2">
                             <div class="text-xs font-weight-bold text-danger text-uppercase mb-1">
-                                Suhu</div>
-                            <div class="h5 mb-0 font-weight-bold text-gray-800">{{$datakartu['suhu']}} °celcius</div>
+                                Suhu termokopel 10 cm</div>
+                            <div class="h5 mb-0 font-weight-bold text-gray-800">{{$datakartu['suhu_10_cm']}} °celcius
+                            </div>
                         </div>
                         <div class="col-auto">
                             <img src="img\temp.svg" style="height:50px">
@@ -27,7 +28,24 @@
                 </div>
             </div>
         </div>
-
+        <!-- kartu suhu 15 cm -->
+        <div class="col-xl-3 col-md-6 mb-4">
+            <div class="card border-left-success shadow h-100 py-2">
+                <div class="card-body">
+                    <div class="row no-gutters align-items-center">
+                        <div class="col mr-2">
+                            <div class="text-xs font-weight-bold text-danger text-uppercase mb-1">
+                                Suhu termokopel 15 cm</div>
+                            <div class="h5 mb-0 font-weight-bold text-gray-800">{{$datakartu['suhu_15_cm']}} °celcius
+                            </div>
+                        </div>
+                        <div class="col-auto">
+                            <img src="img\temp.svg" style="height:50px">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
         <!-- kartu panjang -->
         <div class="col-xl-3 col-md-6 mb-4">
             <div class="card border-left-primary shadow h-100 py-2">
@@ -101,16 +119,29 @@
             type: 'line',
             data: {
                 labels: {!!json_encode($time)!!},
-                datasets: [{
-                label: "suhu ",
-                lineTension: 0.3,
-                backgroundColor: "rgba(170, 0,0, 0.05)",
-                borderColor: "rgba(170, 0,0, 1)",
-                pointRadius: 1,
-                pointHoverRadius: 3,
-                pointHitRadius: 10,
-                data: {!!json_encode($suhu)!!},
-                }],
+                datasets: [
+                    {
+                    label: "suhu termokopel 10 cm ",
+                    lineTension: 0.3,
+                    backgroundColor: "rgba(231,74,59, 0.05)",
+                    borderColor: "rgba(231,74,59, 1)",
+                    pointRadius: 1,
+                    pointHoverRadius: 3,
+                    pointHitRadius: 10,
+                    data: {!!json_encode($suhu_10_cm)!!},
+                    title: 'waktu',
+                    },
+                    {
+                    label: "suhu termokopel 15 cm ",
+                    lineTension: 0.3,
+                    backgroundColor: "rgba(28, 200,138, 0.05)",
+                    borderColor: "rgba(28, 200,138, 1)",
+                    pointRadius: 1,
+                    pointHoverRadius: 3,
+                    pointHitRadius: 10,
+                    data: {!!json_encode($suhu_15_cm)!!},
+                    title: 'waktu',
+                    }],
             },
             options: {
                 maintainAspectRatio: false,    

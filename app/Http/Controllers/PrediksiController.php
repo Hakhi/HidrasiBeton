@@ -54,8 +54,4 @@ class PrediksiController extends Controller
     {
         return view('user.prediksi');
     }
-
-    public function hasilPrediksi()
-    {
-    }
 }

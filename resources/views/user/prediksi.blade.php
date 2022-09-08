@@ -55,7 +55,7 @@
                     <div class="modal-dialog">
                         <div class="modal-content">
                             <div class="modal-body">
-                                <h5 class="mt-3">Data sudah benar ?</h5>
+                                <h5 class="mt-3">Apakah Anda yakin ingin menghapus data ?</h5>
                             </div>
                             <div class="modal-footer">
                                 <button data-target="#inputperdiksi" type="submit" value="daftar" class="btn btn-md"

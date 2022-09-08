@@ -32,21 +32,25 @@ class DatabaseSeeder extends Seeder
         ]);
 
         Measurement::create([
-            'suhu' => '15',
+            'suhu_10_cm' => '15',
+            'suhu_15_cm' => '15',
             'panjang' => '6.5',
         ]);
 
         Measurement::create([
-            'suhu' => '16',
+            'suhu_10_cm' => '16',
+            'suhu_15_cm' => '15',
             'panjang' => '6.8',
         ]);
 
         Measurement::create([
-            'suhu' => '17',
+            'suhu_10_cm' => '17',
+            'suhu_15_cm' => '16',
             'panjang' => '7',
         ]);
         Measurement::create([
-            'suhu' => '18',
+            'suhu_10_cm' => '18',
+            'suhu_15_cm' => '18',
             'panjang' => '7',
         ]);
     }
